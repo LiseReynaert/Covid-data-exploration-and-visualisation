@@ -1,0 +1,7 @@
+location,TotalDeathCount
+Europe,1940760
+North America,1505829
+Asia,1475986
+South America,1304782
+Africa,256539
+Oceania,19475

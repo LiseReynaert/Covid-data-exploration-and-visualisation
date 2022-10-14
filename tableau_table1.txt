@@ -1,0 +1,2 @@
+total_cases,total_deaths,DeathPercentage
+614904198.0,6503386,1.05762589052937
